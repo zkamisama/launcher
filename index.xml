@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launcher</title>
-    <link>http://launcher.github.io/</link>
+    <link>https://zkamisama.github.io/launcher/</link>
     <description>Recent content on Launcher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://launcher.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zkamisama.github.io/launcher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://launcher.github.io/about/</link>
+      <link>https://zkamisama.github.io/launcher/about/</link>
       <pubDate>Mon, 26 Sep 2022 17:22:27 +0800</pubDate>
       
-      <guid>http://launcher.github.io/about/</guid>
+      <guid>https://zkamisama.github.io/launcher/about/</guid>
       <description></description>
     </item>
     

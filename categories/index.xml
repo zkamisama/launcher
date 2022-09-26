@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Launcher</title>
-    <link>http://launcher.github.io/categories/</link>
+    <link>https://zkamisama.github.io/launcher/categories/</link>
     <description>Recent content in Categories on Launcher</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://launcher.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zkamisama.github.io/launcher/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
