@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Launcher</title>
+    <link>http://launcher.github.io/</link>
+    <description>Recent content on Launcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://launcher.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://launcher.github.io/about/</link>
+      <pubDate>Mon, 26 Sep 2022 17:22:27 +0800</pubDate>
+      
+      <guid>http://launcher.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
